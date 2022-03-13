@@ -1,4 +1,4 @@
-#### Estudando teorias 🧠
+## Estudando teorias 🧠
 
 Neste repositório deixarei por escrito algumas questões teóricas necessárias para a evolução profissional
 
