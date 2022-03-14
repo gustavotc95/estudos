@@ -7,6 +7,8 @@ Neste repositório deixarei por escrito algumas questões teóricas necessárias
 - [O que é o JS](#what-is-js)
 - [Hoisting](#hosting)
 - [Promises](#promises)
+- [Pure Functions](#pure-functions)
+- [Higher-Order Functions](#higher-order-functions)
 
 ### NODE
 - [Como funciona o NODE](#how-node-works)
