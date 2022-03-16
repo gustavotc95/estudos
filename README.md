@@ -9,6 +9,7 @@ Neste repositório deixarei por escrito algumas questões teóricas necessárias
 - [Promises](#promises)
 - [Pure Functions](#pure-functions)
 - [Higher-Order Functions](#higher-order-functions)
+- [foreach vs map](#foreach-vs-map)
 
 ### NODE
 - [Como funciona o NODE](#how-node-works)
