@@ -10,6 +10,7 @@ Neste repositório deixarei por escrito algumas questões teóricas necessárias
 - [Pure Functions](#pure-functions)
 - [Higher-Order Functions](#higher-order-functions)
 - [foreach vs map](#foreach-vs-map)
+- [Tipos primitivos](#tipos-primitivos)
 
 ### NODE
 - [Como funciona o NODE](#how-node-works)
@@ -19,6 +20,13 @@ Neste repositório deixarei por escrito algumas questões teóricas necessárias
 ### ReactJS
 - [Como funciona o React](#how-react-works)
 - [Arquitetura flux](#flux-architecture)
+- [Componentes funcionais](#componentes-funcionais)
+- [Higher-Order components](#higher-order-components)
+- [Render Props (ou render functions)](#render-props)
+- [Context API vs Redux](#context-vs-redux)
+- [O que faz um componete ser atualizado?](#compontente-ser-atualizado)
+- [Prop drilling](#prop-drilling)
+- [O que é um componente controlado](#componente-controlado)
 
 ### Testes
 - [TDD](#tdd)
