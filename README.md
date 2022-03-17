@@ -5,7 +5,7 @@ Neste repositório deixarei por escrito algumas questões teóricas necessárias
 ### JS 
 - [Como funciona o JS](#how-js-works)
 - [O que é o JS](#what-is-js)
-- [Hoisting](#hosting)
+- [Hoisting](#-hosting)
 - [Promises](#promises)
 - [Pure Functions](#pure-functions)
 - [Higher-Order Functions](#higher-order-functions)
