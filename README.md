@@ -26,7 +26,11 @@ Neste repositório deixarei por escrito algumas questões teóricas necessárias
 - [Context API vs Redux](#context-vs-redux)
 - [O que faz um componete ser atualizado?](#compontente-ser-atualizado)
 - [Prop drilling](#prop-drilling)
-- [O que é um componente controlado](#componente-controlado)
+- [O que é um componente controlado?](#componente-controlado)
+- [Real DOM vs Virtual DOM](#componente-controlado)
+- [Class components vs Functional components](#class-vs-functional)
+- [O que são keys?](#keys)
+- [Life cycle do react](#life-cycle)
 
 ### Testes
 - [TDD](#tdd)
